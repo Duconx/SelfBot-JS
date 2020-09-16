@@ -1,0 +1,26 @@
+{
+  "name": "selfbotreact",
+  "version": "1.0.0",
+  "main": "selfbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "figlet": "^1.5.0",
+    "table": "^5.4.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekohxd/selfbot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/tekohxd/selfbot/issues"
+  },
+  "homepage": "https://github.com/tekohxd/selfbot#readme",
+  "description": ""
+}
